@@ -5,13 +5,13 @@ import { ScrollProvider } from '@/components/Providers/ScrollProvider';
 import SectionContainer from '@/components/SectionContainer';
 import TopTracks from '@/components/Spotify/TopTracks';
 import Works from '@/components/Work/Works';
-import { allCoreContent, sortedBlogPost } from '@/lib/utils/contentlayer';
-import { allBlogs } from 'contentlayer/generated';
+// import { allCoreContent, sortedBlogPost } from '@/lib/utils/contentlayer';
+// import { allBlogs } from 'contentlayer/generated';
 import { Suspense } from 'react';
 
 export default function Page() {
-  const sortedPosts = sortedBlogPost(allBlogs);
-  const posts = allCoreContent(sortedPosts);
+  // const sortedPosts = sortedBlogPost(allBlogs);
+  // const posts = allCoreContent(sortedPosts);
 
   return (
     <ScrollProvider>
