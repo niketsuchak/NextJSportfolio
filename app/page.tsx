@@ -1,7 +1,7 @@
 import Hero from '@/components/Hero';
 import Intro from '@/components/Intro';
 import { ScrollProvider } from '@/components/Providers/ScrollProvider';
-import RecentPosts from '@/components/RecentPosts';
+// import RecentPosts from '@/components/RecentPosts';
 import SectionContainer from '@/components/SectionContainer';
 import TopTracks from '@/components/Spotify/TopTracks';
 import Works from '@/components/Work/Works';

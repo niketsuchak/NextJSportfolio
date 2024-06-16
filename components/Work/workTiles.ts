@@ -28,10 +28,10 @@ export const workTiles: WorkTile[] = [
     },
   },
   {
-    description: `I maintained`,
-    title: 'Aphex Planner',
+    description: `I built`,
+    title: 'Currency Converter',
     image: {
-      src: '/static/images/planner-app.webp',
+      src: '/static/images/currencyconverter.png',
       width: 600,
       height: 717,
     },
