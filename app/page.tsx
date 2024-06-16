@@ -19,7 +19,7 @@ export default function Page() {
       <Intro />
       <Works />
       <SectionContainer>
-        <RecentPosts posts={posts} />
+        {/* <RecentPosts posts={posts} /> */}
         <Suspense fallback="loading..">
           <TopTracks />
         </Suspense>
