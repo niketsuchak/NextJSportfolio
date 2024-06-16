@@ -12,10 +12,10 @@ const siteMetadata = {
   socialBanner: '/static/images/twitter-card.png',
   email: 'dlarroder@gmail.com',
   github: 'https://github.com/niketsuchak',
-  twitter: 'https://twitter.com/dalelarroder',
-  facebook: 'https://facebook.com/dlarroder',
+  twitter: 'https://twitter.com/niket_suchak',
+  facebook: 'https://facebook.com',
   linkedin: 'https://www.linkedin.com/in/niket-suchak',
-  spotify: 'https://open.spotify.com/user/12162121994?si=e685b3546f414967',
+  spotify: 'https://open.spotify.com/user/3vwfkze8gmgwid1ttrercvhmi?si=9ecaebc783a345d7',
   steam: 'https://steamcommunity.com/id/dlarroder/',
   locale: 'en-US',
   comment: {

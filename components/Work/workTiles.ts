@@ -20,9 +20,9 @@ export const workTiles: WorkTile[] = [
   },
   {
     description: 'I built',
-    title: 'Aphex Field',
+    title: 'Newsify',
     image: {
-      src: '/static/images/field-app.webp',
+      src: '/static/images/newsify.png',
       width: 600,
       height: 554,
     },
