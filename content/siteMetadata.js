@@ -10,7 +10,7 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.webp',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'dlarroder@gmail.com',
+  email: 'niket.suchak2020@gmail.com',
   github: 'https://github.com/niketsuchak',
   twitter: 'https://twitter.com/niket_suchak',
   facebook: 'https://facebook.com',
