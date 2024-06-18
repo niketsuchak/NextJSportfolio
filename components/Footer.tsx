@@ -4,7 +4,7 @@ import { Suspense } from 'react';
 import { AiFillLinkedin } from 'react-icons/ai';
 import { FaGithub, FaSpotify, FaTwitter } from 'react-icons/fa';
 import SectionContainer from './SectionContainer';
-import NowPlaying from './Spotify/NowPlaying';
+// import NowPlaying from './Spotify/NowPlaying';
 
 export default function Footer() {
   return (
@@ -12,7 +12,7 @@ export default function Footer() {
       <footer>
         <div className="mb-0 flex flex-col justify-start space-y-1.5 space-x-0 py-10 text-gray-500 dark:text-gray-400">
           <Suspense fallback="loading...">
-            <NowPlaying />
+            {/* <NowPlaying /> */}
           </Suspense>
           <div className="flex flex-col items-center space-y-2 text-sm sm:flex-row sm:justify-between sm:text-base">
             <ul className="flex space-x-2">

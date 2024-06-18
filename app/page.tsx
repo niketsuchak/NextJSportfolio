@@ -21,7 +21,7 @@ export default function Page() {
       <SectionContainer>
         {/* <RecentPosts posts={posts} /> */}
         <Suspense fallback="loading..">
-          <TopTracks />
+          {/* <TopTracks /> */}
         </Suspense>
       </SectionContainer>
     </ScrollProvider>
