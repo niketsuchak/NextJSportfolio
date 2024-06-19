@@ -16,7 +16,7 @@ const siteMetadata = {
   facebook: 'https://facebook.com',
   linkedin: 'https://www.linkedin.com/in/niket-suchak',
   spotify: 'https://open.spotify.com/user/3vwfkze8gmgwid1ttrercvhmi?si=9ecaebc783a345d7',
-  steam: 'https://steamcommunity.com/id/dlarroder/',
+  steam: 'https://steamcommunity.com/id/',
   locale: 'en-US',
   comment: {
     provider: 'giscus',
