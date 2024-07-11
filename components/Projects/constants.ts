@@ -9,6 +9,13 @@ export const projects: Project[] = [
     role: 'Fullstack Developer',
   },
   {
+    title: 'TFIx Careers Site',
+    src: 'tfix.png',
+    color: '#dbeafe',
+    url: 'https://sites.google.com/teachforindia.org/careerfair/home',
+    role: 'Microsite Developer',
+  },
+  {
     title: 'Currency Converter',
     src: 'currencyconverter.png',
     color: '#ddd6fe',
