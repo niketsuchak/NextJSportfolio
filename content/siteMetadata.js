@@ -1,4 +1,4 @@
-const siteMetadata = {
+var siteMetadata = {
   title: 'Niket Suchak',
   author: 'Niket Suchak',
   headerTitle: 'Niket Suchak',

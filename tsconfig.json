@@ -37,6 +37,6 @@
     "**/**/*.tsx|ts",
     ".contentlayer/generated",
     ".next/types/**/*.ts"
-  ],
+, "content/siteMetadata.js"  ],
   "exclude": ["node_modules"]
 }
