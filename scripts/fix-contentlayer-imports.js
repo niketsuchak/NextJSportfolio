@@ -73,6 +73,12 @@ async function fixContentlayerImports() {
         'import $1 from $2'
       );
 
+      // Fix direct JSON imports to include assert syntax
+      newContent = newContent.replace(
+        /import\s+(\w+)\s+from\s+(['"][^'"]+\.json['"])(?!\s+assert)/g,
+        'import $1 from $2 assert { type: "json" }'
+      );
+
       if (newContent !== originalContent) {
         fs.writeFileSync(file, newContent, 'utf8');
         fixedCount++;
